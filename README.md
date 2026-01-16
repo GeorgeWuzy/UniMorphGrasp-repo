@@ -1,2 +1,2 @@
-# UniMorphGrasp-repo
+# UniMorphGrasp
 Anonymous Repository of UniMorphGrasp
