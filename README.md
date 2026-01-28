@@ -11,7 +11,7 @@
 <br>
 
 <video width="90%" controls autoplay loop muted playsinline preload="metadata">
-    <source src="figs/UniMorphGrasp.mp4" type="video/mp4">
+    <source src="figs/UniMorphGrasp1.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
