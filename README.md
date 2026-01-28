@@ -100,7 +100,7 @@ Geometrical Variations: We scale the finger lengths by factors of 0.8× (shorten
 
 <img src="figs/generalization4.gif" alt="Generalization 4" width="90%">
 <div style="width: 90%; margin: 0 auto; text-align: center;">
-Embodiment Variations: We replace Shadow Hand fingers with those from Allegro Hand, to introduce embodiment changes in link lengths, joint limits, and collision geometries.
+Embodiment Variations: We replace Shadow Hand fingers with Allegro Hand fingers to introduce embodiment changes in joint axis, joint limits, and link geometries.
 </div>
 
 <br>
@@ -148,6 +148,9 @@ We validate UniMorphGrasp in real-world scenarios using a UR5e arm equipped with
 
 <img src="figs/real-world1.gif" alt="Real World 1" width="90%">
 <img src="figs/real-world2.gif" alt="Real World 2" width="90%">
+<div style="width: 90%; margin: 0 auto; text-align: center;">
+Real-world grasping demonstrations on the Leap Hand.
+</div>
 
 <br><br>
 
