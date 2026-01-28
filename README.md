@@ -8,14 +8,14 @@ UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment De
 
 <img src="figs/teaser.gif" alt="Teaser Image" width="100%">
 
-<br>
+<!-- <br>
 <br>
 <hr> <br>
 <br>
 
 <div style="font-size: 36px; font-weight: bold;">Demo Video</div>
 <br>
-<video src="figs/demo.mp4" controls="controls" width="90%"></video>
+<video src="figs/demo.mp4" controls="controls" width="90%"></video> -->
 
 <br>
 <br>
