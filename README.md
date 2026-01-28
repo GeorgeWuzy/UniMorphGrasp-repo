@@ -17,7 +17,7 @@ UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment De
 Cross-embodiment dexterous grasping aims to generate stable and diverse grasps for robotic hands with varying structures. Existing methods are either hand-specific, computationally prohibitive, or fail to generalize beyond the training distribution when encountering novel hand structures. Motivated by the observation that dexterous hands inherently possess graph-structured morphologies, we propose <span style="color: #0070C0">UniMorphGrasp</span>, a morphology-aware diffusion model that integrates explicit morphological information into the generative process for cross-embodiment dexterous grasp synthesis. Our approach first maps diverse hand structures into a unified human-like hand representation, and then employs a morphology-aware encoder that conditions grasp generation on graph-structured morphological features. We further introduce a morphology-aware loss function that leverages hierarchical kinematic relationships to guide training. Extensive experiments demonstrate that UniMorphGrasp achieves state-of-the-art performance on existing benchmarks and successfully <span style="color: #0070C0">generalizes to novel hand structures in a zero-shot way</span>, enabling practical cross-embodiment grasp deployment.
 </p>
 
-<img src="figs/teaser.png" alt="Teaser Image" width="70%">
+<img src="figs/teaser.gif" alt="Teaser Image" width="100%">
 
 <br>
 <br>
