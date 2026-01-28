@@ -1,6 +1,6 @@
 <div align="center">
 
-<div style="font-size: 60px; font-weight: bold;">
+<div style="font-size: 48px; font-weight: bold;">
 UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation
 </div>
 
