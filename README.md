@@ -4,7 +4,7 @@
 <span style="color: darkgreen;">Uni</span><span style="color: darkred;">Morph</span><span style="color: darkblue;">Grasp</span>: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation
 </div>
 
-<br>
+<!-- <br>
 <br>
 
 <div style="font-size: 24px; font-weight: bold;">Demo Video</div>
@@ -13,7 +13,15 @@
 <video width="90%" controls autoplay loop muted playsinline preload="metadata">
     <source src="figs/UniMorphGrasp1.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>
+</video> -->
+
+<br>
+<br>
+
+<img src="figs/teaser.gif" alt="Teaser Image" width="80%">
+<div style="width: 90%; margin: 0 auto; text-align: center;">
+We present UniMorphGrasp, a diffusion model with morphology-awareness that can generate <span style="color: #0070C0; font-weight: bold;">diverse cross-embodiment grasps</span> and <span style="color: #0070C0; font-weight: bold;">generalize to novel morphologies</span>.
+</div>
 
 <br>
 <br>
@@ -22,14 +30,6 @@
 <br>
 <div style="width: 80%; margin: 0 auto; text-align: justify;">
 Cross-embodiment dexterous grasping aims to generate stable and diverse grasps for robotic hands with varying structures. Existing methods are either hand-specific, computationally prohibitive, or fail to generalize beyond the training distribution when encountering novel hand structures. Motivated by the observation that dexterous hands inherently possess graph-structured morphologies, we propose <span style="color: #0070C0; font-weight: bold;">UniMorphGrasp</span>, a morphology-aware diffusion model that integrates explicit morphological information into the generative process for cross-embodiment dexterous grasp synthesis. Our approach first maps diverse hand structures into a unified human-like hand representation, and then employs a morphology-aware encoder that conditions grasp generation on graph-structured morphological features. We further introduce a morphology-aware loss function that leverages hierarchical kinematic relationships to guide training. Extensive experiments demonstrate that UniMorphGrasp achieves state-of-the-art performance on existing benchmarks and successfully <span style="color: #0070C0; font-weight: bold;">generalizes to novel hand structures in a zero-shot way</span>, enabling practical cross-embodiment grasp deployment.
-</div>
-
-<br>
-<br>
-
-<img src="figs/teaser.gif" alt="Teaser Image" width="80%">
-<div style="width: 90%; margin: 0 auto; text-align: center;">
-We present UniMorphGrasp, a diffusion model with morphology-awareness that can generate <span style="color: #0070C0; font-weight: bold;">diverse cross-embodiment grasps</span> and <span style="color: #0070C0; font-weight: bold;">generalize to novel morphologies</span>.
 </div>
 
 <br>
