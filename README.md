@@ -1,16 +1,3 @@
-这是根据您的要求调整顺序后的完整代码。
-
-调整内容：
-
-顺序更改：Title -> Teaser (GIF) -> <hr> -> Demo Video -> <hr> -> Abstract -> <hr> -> Method...
-
-样式保持：保留了您刚才提供的大字号（Title 48px, Section Headers 36px）和两端对齐设置。
-
-Teaser格式：使用了您刚才提供的 figs/teaser.gif。
-
-您可以直接复制全部代码：
-
-Markdown
 <div align="center">
 
 <div style="font-size: 48px; font-weight: bold;">
