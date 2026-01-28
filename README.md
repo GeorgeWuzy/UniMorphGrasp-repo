@@ -6,8 +6,8 @@
 
 <br>
 
-<img src="figs/teaser.gif" alt="Teaser Image" width="90%">
-<div style="width: 90%; margin: 0 auto; text-align: center;">
+<img src="figs/teaser.gif" alt="Teaser Image" width="80%">
+<div style="width: 80%; margin: 0 auto; text-align: center;">
 We present UniMorphGrasp, a diffusion model with morphology-awareness that can generate <span style="color: #0070C0; font-weight: bold;">diverse cross-embodiment grasps</span> and <span style="color: #0070C0; font-weight: bold;">generalize to novel morphologies</span>.
 </div>
 
