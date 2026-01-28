@@ -1,7 +1,7 @@
 <div align="center">
 
-<div style="font-size: 48px; font-weight: bold;">
-<span style="color: green;">Uni</span><span style="color: red;">Morph</span><span style="color: blue;">Grasp</span>: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation
+<div style="font-size: 36px; font-weight: bold;">
+<span style="color: darkgreen;">Uni</span><span style="color: darkred;">Morph</span><span style="color: darkblue;">Grasp</span>: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation
 </div>
 
 <br>
@@ -29,7 +29,7 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 
 <div style="font-size: 24px; font-weight: bold;">Method</div>
 <br>
-<img src="figs/pipeline.png" alt="Pipeline Image" width="100%">
+<img src="figs/pipeline.png" alt="Pipeline Image" width="90%">
 
 <div style="width: 90%; margin: 0 auto; text-align: justify;">
 <span style="color: #0070C0">(Left)</span> The overview of our proposed UniMorphGrasp for cross-embodiment dexterous grasp generation. Given an object point cloud and an arbitrary hand morphology extracted from its URDF specification (mapped to a pre-defined canonical hand format), we employ a morphology encoder to extract morphology representations from the hand's joint structure. The hand pose (noised via a diffusion scheduler in training) is embedded through a linear layer, and concatenated with its active joint mask embedding to obtain the hand representation. This representation is then processed through a morphology-aware denoising model, where the iterative process is conditioned on both the morphology representation and the point cloud representation extracted via a Point Transformer. The entire framework is trained using a morphology-aware loss function. <span style="color: #0070C0">(Right)</span> The structure of our morphology-aware denoising model, which is conditioned on the encoded morphology and the point cloud representations via cross-attention.
