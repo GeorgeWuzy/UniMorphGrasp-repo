@@ -6,7 +6,7 @@ UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment De
 
 <br>
 
-<img src="figs/teaser.gif" alt="Teaser Image" width="100%">
+<img src="figs/teaser.gif" alt="Teaser Image" width="90%">
 
 <!-- <br>
 <br>
@@ -19,7 +19,8 @@ UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment De
 
 <br>
 <br>
-<hr> <br>
+<!-- <hr> <br> -->
+<br>
 <br>
 
 <div style="font-size: 24px; font-weight: bold;">Abstract</div>
