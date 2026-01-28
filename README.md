@@ -147,7 +147,7 @@ We validate UniMorphGrasp in real-world scenarios using a UR5e arm equipped with
 <br>
 
 <img src="figs/real-world1.gif" alt="Real World 1" width="90%">
-<br>
+<br><br>
 <img src="figs/real-world2.gif" alt="Real World 2" width="90%">
 <div style="width: 90%; margin: 0 auto; text-align: center;">
 Real-world grasping demonstrations on the Leap Hand.
