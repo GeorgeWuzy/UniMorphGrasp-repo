@@ -3,10 +3,16 @@
 <div style="font-size: 36px; font-weight: bold;">
 <span style="color: darkgreen;">Uni</span><span style="color: darkred;">Morph</span><span style="color: darkblue;">Grasp</span>: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation
 </div>
+
+<br>
 <br>
 
-<video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+<div style="font-size: 24px; font-weight: bold;">Demo</div>
+<br>
+
+<video width="90%" controls autoplay loop muted playsinline preload="metadata">
     <source src="figs/UniMorphGrasp.mp4" type="video/mp4">
+    Your browser does not support the video tag.
 </video>
 
 <br>
