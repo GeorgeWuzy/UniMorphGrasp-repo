@@ -53,6 +53,8 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 <img src="figs/more_multidex.gif" alt="More MultiDex Results" width="90%">
 <br><br>
 <img src="figs/quantitative1.png" alt="Quantitative Results 1" width="90%">
+<br><br>
+<img src="figs/qualitative.gif" alt="Quantitative Results 1" width="90%">
 
 <br>
 <br>
