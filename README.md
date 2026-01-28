@@ -45,7 +45,7 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 
 <img src="figs/multidex.gif" alt="MultiDex Performance" width="90%">
 <div style="width: 90%; margin: 0 auto; text-align: center;">
-UniMorphGrasp can generate <span style="color: #0070C0; font-weight: bold;">stable and diverse</span> grasps for cross-embodiment dexterous hands.
+UniMorphGrasp can generate stable and diverse grasps for cross-embodiment dexterous hands.
 </div>
 
 <br><br>
@@ -66,7 +66,7 @@ Quantitative comparison of our UniMorphGrasp (w/. and w/o. the morphology-aware 
 
 <img src="figs/qualitative.gif" alt="Qualitative Comparison" width="90%">
 <div style="width: 90%; margin: 0 auto; text-align: center;">
-<span style="color: #0070C0; font-weight: bold;">Qualitative comparison</span> with baselines 1) GenDexGrasp and 2) DRO-Grasp, where our results demonstrate superior surface conformity and stable form-closure.
+Qualitative comparison with baselines 1) GenDexGrasp and 2) DRO-Grasp, where our results demonstrate superior surface conformity and stable form-closure.
 </div>
 
 <br>
