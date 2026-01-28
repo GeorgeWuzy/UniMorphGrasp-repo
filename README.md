@@ -13,7 +13,7 @@ UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment De
 <hr> <br>
 <br>
 
-<div style="font-size: 36px; font-weight: bold;">Demo Video</div>
+<div style="font-size: 24px; font-weight: bold;">Demo Video</div>
 <br>
 <video src="figs/demo.mp4" controls="controls" width="90%"></video> -->
 
@@ -22,7 +22,7 @@ UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment De
 <hr> <br>
 <br>
 
-<div style="font-size: 36px; font-weight: bold;">Abstract</div>
+<div style="font-size: 24px; font-weight: bold;">Abstract</div>
 <br>
 <p style="text-align: justify;">
 Cross-embodiment dexterous grasping aims to generate stable and diverse grasps for robotic hands with varying structures. Existing methods are either hand-specific, computationally prohibitive, or fail to generalize beyond the training distribution when encountering novel hand structures. Motivated by the observation that dexterous hands inherently possess graph-structured morphologies, we propose <span style="color: #0070C0">UniMorphGrasp</span>, a morphology-aware diffusion model that integrates explicit morphological information into the generative process for cross-embodiment dexterous grasp synthesis. Our approach first maps diverse hand structures into a unified human-like hand representation, and then employs a morphology-aware encoder that conditions grasp generation on graph-structured morphological features. We further introduce a morphology-aware loss function that leverages hierarchical kinematic relationships to guide training. Extensive experiments demonstrate that UniMorphGrasp achieves state-of-the-art performance on existing benchmarks and successfully <span style="color: #0070C0">generalizes to novel hand structures in a zero-shot way</span>, enabling practical cross-embodiment grasp deployment.
@@ -33,7 +33,7 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 <hr> <br>
 <br>
 
-<div style="font-size: 36px; font-weight: bold;">Method</div>
+<div style="font-size: 24px; font-weight: bold;">Method</div>
 <br>
 <img src="figs/pipeline.png" alt="Pipeline Image" width="100%">
 
@@ -46,7 +46,7 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 <hr> <br>
 <br>
 
-<div style="font-size: 36px; font-weight: bold;">Method Performance</div>
+<div style="font-size: 24px; font-weight: bold;">Method Performance</div>
 <br>
 <img src="figs/multidex.gif" alt="MultiDex Performance" width="90%">
 <br><br>
@@ -61,7 +61,7 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 <hr> <br>
 <br>
 
-<div style="font-size: 36px; font-weight: bold;">Zero-Shot Generalization to Novel Hand Morphologies</div>
+<div style="font-size: 24px; font-weight: bold;">Zero-Shot Generalization to Novel Hand Morphologies</div>
 <br>
 <img src="figs/generalization1.gif" alt="Generalization 1" width="90%">
 <br><br>
@@ -72,7 +72,7 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 <hr> <br>
 <br>
 
-<div style="font-size: 36px; font-weight: bold;">Cross-Dataset Results</div>
+<div style="font-size: 24px; font-weight: bold;">Cross-Dataset Results</div>
 <br>
 <img src="figs/multi-graspllm.gif" alt="Multi GraspLLM" width="90%">
 <br><br>
@@ -85,7 +85,7 @@ Cross-embodiment dexterous grasping aims to generate stable and diverse grasps f
 <hr> <br>
 <br>
 
-<div style="font-size: 36px; font-weight: bold;">Real-World Experiments</div>
+<div style="font-size: 24px; font-weight: bold;">Real-World Experiments</div>
 <br>
 <img src="figs/real-world1.gif" alt="Real World 1" width="90%">
 <br><br>
