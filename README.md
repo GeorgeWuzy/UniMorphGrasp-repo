@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<div style="font-size: 24px; font-weight: bold;">Demo</div>
+<div style="font-size: 24px; font-weight: bold;">Demo Video</div>
 <br>
 
 <video width="90%" controls autoplay loop muted playsinline preload="metadata">
